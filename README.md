@@ -1,0 +1,2 @@
+# logica
+Textos de lógica
